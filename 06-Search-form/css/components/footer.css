@@ -1,0 +1,19 @@
+
+.footer {
+  background: #262626;
+  height: 100px;
+  color: lightgrey;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.footer .logo {
+  padding-right: 30px;
+}
+
+.footer .logo:hover {
+  color: yellow;
+}
